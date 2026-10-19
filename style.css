@@ -48,7 +48,9 @@ section {
     width: auto;
     display: block;
 }
-
+.brand-title2{
+    color: #7fff00;
+}
 .brand-title {
     color: #F5F1E2;
     font-size: 1.2rem;
@@ -71,7 +73,7 @@ section {
 }
 
 .nav-links a:hover {
-    color: #B7945B;
+    color: #7fff00;
 }
 
 /* WhatsApp Header Button Fix */
@@ -112,7 +114,9 @@ section {
     margin-bottom: 15px;
     text-shadow: 0 4px 10px rgba(0,0,0,0.5);
 }
-
+/* .hero >.welcome{
+    margin-top: 30px;
+} */
 .hero-content p {
     font-size: 1.3rem;
     color: #F5F1E2;
